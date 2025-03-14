@@ -1,0 +1,15 @@
+character/Idle (0).png
+character/Idle (1).png
+character/Idle (2).png
+character/Idle (3).png
+character/Idle (4).png
+character/Idle (5).png
+character/Idle (6).png
+character/Idle (7).png
+character/Idle (8).png
+character/Idle (9).png
+character/Idle (10).png
+character/Idle (11).png
+character/Idle (12).png
+character/Idle (13).png
+character/Idle (14).png

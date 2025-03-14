@@ -1,0 +1,10 @@
+character/Walk (0).png
+character/Walk (1).png
+character/Walk (2).png
+character/Walk (3).png
+character/Walk (4).png
+character/Walk (5).png
+character/Walk (6).png
+character/Walk (7).png
+character/Walk (8).png
+character/Walk (9).png
